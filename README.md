@@ -1,7 +1,7 @@
+<img src="https://github.com/JoshuaThadi/Curriculum/blob/main/circus.png">
 <div align="center">
   <div class="header">
-    <img src="" alt="" width=200px>
-    <h1>🔥 Cirriculum 🔥</h1>
+    <!--<h1>🔥 Cirriculum 🔥</h1>-->
     ✨This a repository of my Practices related to Technology in different programming languages and Frameworks.
   </div>
 
