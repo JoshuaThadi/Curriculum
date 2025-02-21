@@ -16,6 +16,15 @@ Entity Framework for data management
 SQL Server or [other database] for backend storage
 </a>
 
+
+<h3 align="center">📚 Knowledge I consist </h3>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=python,mysql,dotnet,cpp,cs" /><br>
+</div>
+
+
 <div>
   <p>
     
