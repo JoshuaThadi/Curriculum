@@ -13,13 +13,7 @@
   <p>🤝 A collection of all my learning files, resources, and notes. 🚀</p>
     
 
-  <h3>🖥️ Technologies used</h3>
-<a align="center"><strong>Pending</strong>
-.NET Core for backend development
-ASP.NET MVC for building dynamic, data-driven websites
-Entity Framework for data management
-SQL Server or [other database] for backend storage
-</a>
+  
 
 
 <h3 align="center">📚 Knowledge I consist </h3>
