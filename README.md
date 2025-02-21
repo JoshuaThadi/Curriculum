@@ -33,8 +33,13 @@ SQL Server or [other database] for backend storage
 
 </div>
 <div align="center" class="badge">
-   <a href="#" target="_blank">
-     <img src="https://img.shields.io/badge/Youtube-Design-%23EF0107?style=for-the-badge&logo=youtube&logoColor=%23ffffff" alt="GitHub Badge">
+
+  <h3>⭐️ Exercism Line Wise</h3>
+  
+   <a href="https://github.com/JoshuaThadi/Curriculum/tree/main/Html%20%26%20Css" target="_blank">
+     <img src="https://img.shields.io/badge/Html/Css-Youtube-%23EF0107?style=for-the-badge&logo=youtube&logoColor=%23ffffff" alt="GitHub Badge"></a>
+  <a href="https://github.com/JoshuaThadi/Curriculum/tree/main/Bootstrap%20Framework" target="_blank">
+     <img src="https://img.shields.io/badge/Bootstrap-WebDev-%23007FFF?style=for-the-badge&logo=bootstrap&logoColor=%23ffffff" alt="GitHub Badge">
    </a>
 </div>
 
